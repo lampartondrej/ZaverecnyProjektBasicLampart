@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\DatabazePojistencu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabazePojistencu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\LogikaPoSpusteni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogikaPoSpusteni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:23:17.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pojistenec.cs",
+              "DocumentMoniker": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Pojistenec.cs",
+              "RelativeDocumentMoniker": "Pojistenec.cs",
+              "ToolTip": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Pojistenec.cs",
+              "RelativeToolTip": "Pojistenec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:23:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabazePojistencu.cs",
+              "DocumentMoniker": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\DatabazePojistencu.cs",
+              "RelativeDocumentMoniker": "DatabazePojistencu.cs",
+              "ToolTip": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\DatabazePojistencu.cs",
+              "RelativeToolTip": "DatabazePojistencu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:24:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogikaPoSpusteni.cs",
+              "DocumentMoniker": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\LogikaPoSpusteni.cs",
+              "RelativeDocumentMoniker": "LogikaPoSpusteni.cs",
+              "ToolTip": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\LogikaPoSpusteni.cs",
+              "RelativeToolTip": "LogikaPoSpusteni.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:24:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Studijko\\OneDrive\\C#\\ZaverecnyProjektZjednodusenaVerze\\ZaverecnyProjektZjednodusenaVerze\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:24:18.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

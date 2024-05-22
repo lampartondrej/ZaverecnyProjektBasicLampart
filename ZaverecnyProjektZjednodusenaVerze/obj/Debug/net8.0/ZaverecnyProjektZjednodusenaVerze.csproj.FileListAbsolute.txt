@@ -1,0 +1,28 @@
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.exe
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.deps.json
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.runtimeconfig.json
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.pdb
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.AssemblyInfoInputs.cache
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.AssemblyInfo.cs
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.csproj.CoreCompileInputs.cache
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\refint\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.pdb
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.genruntimeconfig.cache
+C:\Users\Studijko\OneDrive\C#\Nová složka\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ref\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.AssemblyInfoInputs.cache
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.AssemblyInfo.cs
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.csproj.CoreCompileInputs.cache
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\refint\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.pdb
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.exe
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.deps.json
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.runtimeconfig.json
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.dll
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\bin\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.pdb
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ZaverecnyProjektZjednodusenaVerze.genruntimeconfig.cache
+C:\Users\Studijko\OneDrive\C#\ZaverecnyProjektZjednodusenaVerze\ZaverecnyProjektZjednodusenaVerze\obj\Debug\net8.0\ref\ZaverecnyProjektZjednodusenaVerze.dll
